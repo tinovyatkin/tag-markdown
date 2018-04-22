@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Markdown tag multiple lines must be wrapped in <p> 1`] = `
+"<h1>This is header</h1>
+<p>This is firs © <em>paragraph</em></p>
+<p>This is second ☎️ paragraph</p>
+"
+`;
+
+exports[`Markdown tag single line should have no wrapper 1`] = `"This is test <em>markdown</em> string 🎉"`;
