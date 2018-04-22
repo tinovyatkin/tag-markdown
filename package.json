@@ -1,7 +1,7 @@
 {
   "name": "tag-markdown",
   "description": "Tagged template string function that converts Markdown to HTML",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "jest"
