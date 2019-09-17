@@ -20,9 +20,8 @@
   },
   "homepage": "https://github.com/tinovyatkin/tag-markdown#readme",
   "devDependencies": {
-    "@destinationstransfers/eslint-config": "latest",
+    "@destinationstransfers/eslint-plugin": "2.9.1",
     "eslint": "latest",
-    "eslint-plugin-node": "latest",
     "jest": "latest"
   },
   "directories": {
@@ -35,11 +34,10 @@
   },
   "eslintConfig": {
     "plugins": [
-      "node"
+      "@destinationstransfers"
     ],
     "extends": [
-      "@destinationstransfers",
-      "plugin:node/recommended"
+      "plugin:@destinationstransfers/recommended"
     ],
     "env": {
       "node": true
