@@ -1,11 +1,24 @@
 {
   "name": "tag-markdown",
-  "description": "Tagged template string function that converts Markdown to HTML",
+  "description": "Tagged template string function that converts Markdown to HTML string",
   "version": "1.1.0",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
+  "keywords": [
+    "es6",
+    "es6-tags",
+    "es2015-tag",
+    "literal",
+    "tagged",
+    "template",
+    "markdown",
+    "template-tag",
+    "markdown-it",
+    "common-tags",
+    "html"
+  ],
   "engines": {
     "node": ">=8"
   },
@@ -13,7 +26,7 @@
     "type": "git",
     "url": "git+https://github.com/tinovyatkin/tag-markdown.git"
   },
-  "author": "Tino Vyatkin <tino@vtkn.io>",
+  "author": "Konstantin Vyatkin <tino@vtkn.io>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tinovyatkin/tag-markdown/issues"
