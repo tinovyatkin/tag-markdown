@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/tinovyatkin/tag-markdown#readme",
   "devDependencies": {
-    "@destinationstransfers/eslint-plugin": "2.9.137",
+    "@destinationstransfers/eslint-plugin": "2.9.138",
     "eslint": "latest",
     "jest": "latest"
   },
